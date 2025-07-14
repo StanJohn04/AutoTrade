@@ -30,7 +30,7 @@ The project is in the initial phase. So far, a script has been created to downlo
 1.  **Clone the repository:**
     ```bash
     git clone <your-repo-url>
-    cd python-trading-bot
+    cd <repo>
     ```
 
 2.  **Install dependencies:**
